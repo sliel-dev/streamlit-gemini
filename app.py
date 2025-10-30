@@ -6,6 +6,7 @@ st.set_page_config(page_title="Gemini 챗봇", page_icon="💬", layout="centere
 
 def main():
     st.title("💬 Gemini 챗봇")
+    st.subheader('궁금한 점을 물어보세요')
 
     # Gemini API 클라이언트 설정
     client = genai.Client(api_key=st.secrets["GEMINI_API_KEY"])
