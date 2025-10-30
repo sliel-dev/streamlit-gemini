@@ -28,7 +28,7 @@ Streamlit을 사용해 직관적인 UI로 구성되어 있으며, 사용자가 �
 #### 1️⃣ 저장소 클론
 
 ```bash
-git clone https://github.com/yourusername/gemini-chatbot.git
+git clone https://github.com/sliel-dev/streamlit-gemini.git
 cd gemini-chatbot
 ```
 
